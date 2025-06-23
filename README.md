@@ -1,4 +1,4 @@
 # First-demo
 This is my first repository. <br>
 
-Author-Tamim (murad)
+Author- Murad Hasan Tamim
